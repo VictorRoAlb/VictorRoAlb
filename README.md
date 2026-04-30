@@ -9,6 +9,7 @@ This profile brings together the public versions of my TFG, TFM and selected pos
 - Foundation Models for Computational Pathology
 - VoxelMorph for Breast MRI Registration
 - Machine Learning for Classification and Regression
+- Time Series Forecasting and ARIMA Modelling
 - Neural Networks and Simulation
 - Multivariate Analysis and Process Monitoring
 
