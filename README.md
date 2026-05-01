@@ -1,6 +1,6 @@
 # Victor Rodriguez Albendea
 
-**Biomedical AI Researcher | Data Scientist | Biomedical Engineer**
+**AI Researcher | Data Scientist | Biomedical Engineer**
 
 Biomedical engineer with a strong interest in computational pathology, medical imaging, multimodal evaluation and applied machine learning.
 This profile brings together the public versions of my TFG, TFM and selected postgraduate projects.
